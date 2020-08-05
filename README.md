@@ -2,7 +2,7 @@
 
 ## 🧔 I'm Fullstack Web Developer
 
-# The Road so far.
+# 🛠️ The Road so far.
 
 | **SUMARY**                                                                                                                                              | **LANGUAGES**                                                                                                                                         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -15,6 +15,11 @@
 <a href="mailto:andre.telestp@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="20" width="20"/><a>
 
 </p>
+
+# 📖 Blog posts.
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!--
 **apteles/apteles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
