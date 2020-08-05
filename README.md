@@ -19,6 +19,8 @@
 # 📖 Blog posts.
 
 <!-- BLOG-POST-LIST:START -->
+- [Já tem mais ou menos 3 anos que estudo desenvolvimento web, e de uns tempos para cá vi que…](https://medium.com/@apteles/j%C3%A1-tem-mais-ou-menos-3-anos-que-estudo-desenvolvimento-web-e-de-uns-tempos-para-c%C3%A1-vi-que-29bbfbb8177f?source=rss-a1bd375db343------2)
+- [PHPUnit e Cobertura de Código — Uma Breve introdução a testes em PHP.](https://medium.com/trainingcenter/phpunit-e-cobertura-de-c%C3%B3digo-uma-breve-introdu%C3%A7%C3%A3o-a-testes-em-php-47c7ffb7b5ba?source=rss-a1bd375db343------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
