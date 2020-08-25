@@ -2,6 +2,9 @@
 
 ## 🧔 I'm Fullstack Web Developer
 
+> “What I cannot create, I do not understand.”
+> - Richard Feynman
+
 # 🛠️ The Road so far.
 
 | **SUMARY**                                                                                                                                              | **LANGUAGES**                                                                                                                                         |
