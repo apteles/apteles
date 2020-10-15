@@ -22,6 +22,7 @@
 # 📖 Blog posts.
 
 <!-- BLOG-POST-LIST:START -->
+- [Ambiente de desenvolvimento Nodejs com docker.](https://medium.com/@apteles/ambiente-de-desenvolvimento-nodejs-com-docker-5295b49fd873?source=rss-a1bd375db343------2)
 - [Introdução à programação funcional com Javascript](https://medium.com/@apteles/introdu%C3%A7%C3%A3o-%C3%A0-programa%C3%A7%C3%A3o-funcional-com-javascript-6c588ef1ef00?source=rss-a1bd375db343------2)
 - [PHPUnit e Cobertura de Código — Uma Breve introdução a testes em PHP.](https://medium.com/trainingcenter/phpunit-e-cobertura-de-c%C3%B3digo-uma-breve-introdu%C3%A7%C3%A3o-a-testes-em-php-47c7ffb7b5ba?source=rss-a1bd375db343------2)
 <!-- BLOG-POST-LIST:END -->
